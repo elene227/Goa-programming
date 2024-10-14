@@ -1,0 +1,1 @@
+print("To create a variable, you give it a type, a name, and a value. The type tells Processing what kind of value the variable will hold. The name is how you'll use the variable later in the code, like you've used width and height .")
