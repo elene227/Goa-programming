@@ -5,4 +5,6 @@ subject = (input("what is your favorite subject?: "))
 color = (input("what is your favorite color?: "))
 age = (input("how old are u pal?: "))
 
-print ("my favorite subject is", subject + "my favorite color is", color + "i am ", age)
+print ("my favorite subject is.", subject + "my favorite color is.", color + "i am. ", age)
+
+
