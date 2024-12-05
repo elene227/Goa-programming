@@ -5,8 +5,8 @@ numbers = [1, 2, 3, 4, 5]
 product = 1
 
 
-for num in numbers:
-    product *= num
+for i in numbers:
+    product *= i
 
 
 print("სიის ელემენტების ნამრავლი არის: " + str(product))
