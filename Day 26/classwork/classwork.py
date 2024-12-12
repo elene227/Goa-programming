@@ -103,6 +103,6 @@ print(nam3s)
 # Epic time
 
 random = ["dfj","jkd","jjd"]
-random.pop(2)
+random.pop(2) #removing second index jjd using pop to EZ
 
 print(random)

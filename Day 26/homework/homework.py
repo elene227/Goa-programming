@@ -27,3 +27,8 @@ if len(name) > 5:
     print("Hello")
 else:
     print("Bye")
+# its bye for me.. WAHH
+
+# i already explained everything in my classwork so cheack it out
+
+
