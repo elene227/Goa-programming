@@ -1,0 +1,27 @@
+
+body {
+    background-color: #b0a9d9;
+    font-family: 'Arial';
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+
+.idk {
+    background-color: #ff6ec7;
+    color: white;
+    padding: 20px;
+    border-radius: 100px; /*it has to makeee it rounderrrrrrrrrrrrrrrr*/
+    font-size: 24px;
+    font-weight: bold;
+    margin: 100px;
+}
+
+#goa{
+    background: linear-gradient( #04002a, #7c187b, #354a61);
+    color: white;
+}
+
+
+
