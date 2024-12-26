@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column; /* დივების განლაგება ვერტიკალურად */
+    gap: 10px; /* დივებს შორის სივრცე */
+}
+
+.box {
+    width: 150px; 
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+}
+
