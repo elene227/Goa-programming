@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+
+
+
+
+div{
+    display: flex;
+    flex-direction: row;
+    color: brown;
+}

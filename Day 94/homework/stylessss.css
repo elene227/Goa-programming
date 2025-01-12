@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+button{
+    font-size: 100px;
+    color:blueviolet;
+    gap:100px;
+    
+}

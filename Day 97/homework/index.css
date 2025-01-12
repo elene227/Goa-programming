@@ -1,0 +1,62 @@
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgb(236, 236, 134);
+    min-height: 100vh; /* Ensure the body takes full height of the screen */
+    padding: 20px;
+}
+
+.idk {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 15px; /* Slightly more space between sections */
+    border-radius: 9px;
+    width: 100%;
+    max-width: 400px; /* Max width for responsiveness */
+    height: auto; /* Let height adjust according to content */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sigma {
+    background-color: rgb(173, 172, 91);
+    color: black;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 8px 12px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.yes {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center; /* Center images and text vertically */
+}
+
+#yess {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; /* Circle the image */
+    object-fit: cover; /* Ensure the image stays within the circle */
+}
+
+#n {
+    width: 100px;
+    height: 100px;
+    border-radius: 9px;
+    object-fit: cover; /* Make sure image doesn't get distorted */
+}

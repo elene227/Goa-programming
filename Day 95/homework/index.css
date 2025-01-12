@@ -1,0 +1,36 @@
+body{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Arial', sans-serif;
+    background-image: url(1209998-3840x2160-desktop-4k-glow-in-the-dark-background-photo.jpg);
+    color: #00962f;
+}
+
+.this{
+    display:flex;
+    gap:20px;
+    font-size:30px;
+    
+    
+    
+
+
+
+}
+
+
+button{
+    font-size: 35px;
+    color: #dfb7fb;
+    background-color: #320096;
+    border-radius: 40px;
+}
+
+button:hover {
+    background-color: #5a0dc1; 
+    transform: scale(1.05);     
+
+}
+
+

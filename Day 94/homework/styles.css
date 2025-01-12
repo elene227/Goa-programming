@@ -1,0 +1,16 @@
+body{
+ display: flex;
+ text-align: center;
+ justify-content: center;
+ background-color: antiquewhite;
+      
+}
+
+
+
+.div {
+    display: flex;
+    flex-direction: column;
+    font-size: 10000px;
+  }
+  
