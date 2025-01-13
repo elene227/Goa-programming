@@ -48,16 +48,12 @@ body {
     flex-direction: column;
     gap:10px;
     width:400;
-    text-align: center;
-    
-    
-
-}
-
-button{
+    padding-left:35%;
     width:400px;
-   
 }
+    
+
+
 
 
 
