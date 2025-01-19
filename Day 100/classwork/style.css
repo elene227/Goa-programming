@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(148, 195, 255);
+
+}
+
+
+.happy100level{
+    width: 200px;         
+    height: 100px;        
+    background-color: #b9e0bb; 
+    color: rgb(7, 82, 7);         
+    text-align: center;     
+    position: relative;  
+    bottom: 20px;            
+    right: 10px;     
+}
