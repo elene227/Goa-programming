@@ -17,7 +17,7 @@ body{
     background-color: #b9e0bb; 
     color: rgb(7, 82, 7);         
     text-align: center;     
-    position: relative;  
-    bottom: 20px;            
-    right: 10px;     
+    position: absolute;  
+    bottom: 100px;            
+    right: 100px;     
 }
