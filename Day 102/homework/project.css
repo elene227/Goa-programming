@@ -1,0 +1,137 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/330/277/non_2x/cyber-technology-security-network-protection-design-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    background-color: rgb(228, 235, 250);
+}
+
+
+nav{
+    background-color: white;
+    width:1300px;
+   
+    
+    
+    
+}
+
+
+
+#icon{
+    width:30px;
+    height:32px;
+    margin-top:10px;
+    z-index:1;
+    margin-left:20px;
+}
+
+.h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40px;
+    font-size: 20px;
+    margin-left:20px;
+    color: rgb(7, 14, 23);
+    display: inline-flex;
+    position: relative;
+    top:-10px;
+    z-index:2;
+    margin-right:50px;
+    
+
+}
+
+#a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40px;
+    font-size: 20px;
+    margin-left:20px;
+    color: rgb(7, 14, 23);
+    display: inline-flex;
+    position: relative;
+    top:-10px;
+    z-index:2;
+    margin-right:50px;
+}
+
+#b{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40px;
+    font-size: 20px;
+    margin-left:20px;
+    color: rgb(7, 14, 23);
+    display: inline-flex;
+    position: relative;
+    top:-10px;
+    z-index:2;
+    margin-right:30px;
+
+}
+
+#c{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40px;
+    font-size: 20px;
+    margin-left:20px;
+    display: inline-flex;
+    position: relative;
+    top:-10px;
+    z-index:2;
+    margin-right:10px;
+    padding:30px;
+
+}
+
+
+.b1{
+    padding:20px;
+    background-color: rgb(7, 14, 23);
+    color:white;
+    border: none;
+    border-radius: 30px;
+}
+
+.b1:hover{
+    background-color: rgb(15, 30, 49);
+    padding:25px;
+    color: rgb(239, 239, 239);
+
+}
+
+
+
+
+
+
+
+.slogan h1{
+    color: white;
+    font-size: 70px;
+    
+
+}
+
+
+#d{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 40px;
+    font-size: 20px;
+    margin-left:20px;
+    color: rgb(7, 14, 23);
+    display: inline-flex;
+    position: relative;
+    top:-10px;
+    z-index:2;
+    margin-right:200px;
+}
