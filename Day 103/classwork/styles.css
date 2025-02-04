@@ -1,0 +1,143 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    font-family: "Outfit", serif;
+    
+
+}
+
+.blue{
+    background-color: hsl(216, 50%, 16%);
+    height:750px;
+    width: 500px;
+    border-radius: 20px 20px 20px 20px;
+    color:white;
+    padding:30px;
+    
+   
+    
+}
+
+
+.blue p{
+    color:hsl(215, 51%, 70%);
+    font-size:18px;
+    margin-left:20px;
+}
+
+.blue img{
+    width:450px;
+    height:430px;
+    border-radius: 20px;
+    
+    margin-top:20px;
+    margin-bottom:10px;
+    
+}
+
+.blue h1{
+    margin-left:20px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+}
+
+.cyan{
+    margin-left:20px;
+    color:hsl(178, 100%, 50%);
+    
+}
+
+
+.icon1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 200px;
+    
+    
+
+}
+
+.icon2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+ 
+    
+    
+
+}
+.icon3{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 30px;
+   
+    
+
+}
+
+
+#w{
+    width:18px;
+    height:21px;
+    padding:0;
+    position: relative;
+    bottom:20px;
+    
+}
+
+
+#clock{
+    width:20px;
+    height:20px;
+    padding:0;
+    position: relative;
+    bottom:20px;
+   
+}
+
+.thin{
+    height:2px;
+    width:430px;
+    background-color:hsl(215, 32%, 27%);
+}
+
+#avatar{
+    width:40px;
+    height:42px;
+    padding:0;
+    position:relative;
+    bottom:30px;
+    
+}
+
+.ce{
+    display:flex;
+    flex-direction: row;
+}
+
+
+.p1{
+    margin-bottom: 25px;
+    color: rgb(255, 255, 255);
+   
+
+}
+
+
+.p bold{
+    color:hsl(215, 51%, 70%);
+}
