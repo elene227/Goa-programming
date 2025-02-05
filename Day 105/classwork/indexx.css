@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.a{
+    transform: rotate(250deg);
+    transform: skew(100px);
+    transform: translate(10px) ;
+    transform: scale(450px);
+}
+
+.b{
+    transform: skew(300px);
+    transform: translate(100px) ;
+    transform: scale(45px);
+    transform: rotate(20deg);
+}
+
+.c{
+    transform: translate(300px) ;
+    transform: scale(5px);
+    transform: rotate(210deg);
+    transform: skew(30px);
+    
+}
+
+.d{
+    transform: scale(30px);
+    transform: rotate(380deg);
+    transform: skew(91px);
+    transform: translate(700px) ;
+}
