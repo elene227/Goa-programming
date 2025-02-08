@@ -44,7 +44,7 @@ body{
 
 
 #earth:hover{
-    transform:rotate(1500deg);
+    transform:rotateY(1500deg);
     transition: 8.2s;
 
 }
@@ -53,14 +53,6 @@ body{
     transition: 5.3s;
     transform: translate(9000px); /*RIP moon moon ran away from us )':*/
     
-}
-
-
-
-#milch{
-    width:150px;
-    height:125px;
-
 }
 
 
