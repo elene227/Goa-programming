@@ -1,1 +1,0 @@
-print("no classwork. (: plus i miss python css and html suck.")
