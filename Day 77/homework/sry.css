@@ -317,6 +317,7 @@ span{
 .images img{
     width: 32.56289291381836px;
     height: 21.6597900390625px;
+    
 }
 
 .x{
@@ -372,7 +373,6 @@ span{
     flex-direction: row;
     justify-content: space-between;
     align-self: center;
-    padding: 20px 210px;
     gap:30px;
 
 }
@@ -413,6 +413,7 @@ span{
     gap:22.27px;
     justify-content: center;
     align-items: center;
+   
 }
 
 
@@ -422,13 +423,14 @@ span{
     justify-content: center;
     align-items: center;
     gap:5.57px;
-
+    
 }
 
 .Tim .hello{
     color:#4CAF4F;
     font-weight: 600;
     font-size: 13.92px;
+   
 }
 
 
@@ -436,19 +438,26 @@ span{
 .little{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     z-index: 2;
     align-items: center;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    
+   
+
+   
     
 }
 
 .chiken{
     display: flex;
     flex-direction: column;
-    padding: 20px 100px;
     align-items: center;
-    justify-content: space-between;
-    width: 100%;
+    justify-content: center;
+    margin-left: 200px;
+    margin-bottom: 100px;
+  
 }
 
 .caring{
@@ -458,7 +467,8 @@ span{
     color: #717171;
     font-weight: 400;
     font-size: 11.14px;
-
+    margin-bottom: 15px;
+    margin-right: 200px;
 }
 
 .boarder{
@@ -468,9 +478,10 @@ span{
     z-index: 1;
     display: flex;
     flex-direction: column;
+    line-height: 19.49px;
     position: relative;
-    bottom:-50px;
-    left:-180px;
+    bottom:-55px;
+    left:-210px;
     border-radius: 5.57px;
     padding: 11.14px;
     gap:11.14px;
@@ -479,20 +490,127 @@ span{
     
     
     
+    
+}
+
+.obv{
+    margin-left: 100px;
 }
 
 .smallers{
     display: flex;
     flex-direction: row;
-    color:#4CAF4F
+    color:#4CAF4F;
+    margin-left: 15px;
+   
+
 
 }
 
 
-footer{
+.footer{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 44.55px;
+    color:#263238;
+    text-align: center;
+    background-color: #F5F7FA;
+    margin-bottom: 20px;
    
 }
 
 
+.ot{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    
+
+}
+
+.FINALE{
+    background-color: #263238;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 100px;
+    color: #F5F7FA;
+    padding-bottom: 100px;
+}
+
+.boats{
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+}
+
+.patrick{
+    gap: 25px;
+}
+
+.HELP{
+    display: flex;
+    flex-direction: row;
+    gap:20px
+}
+
+.dattaaa{
+
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-bottom: 110px;
+}
+
+
+.email{
+    background-color: grey;
+    color: #D9DBE1;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap:15px;
+    padding: 8px;
+    padding-right: 20px;
+    font-size: 9.74px;
+}
+
+.HELP div{
+    background-color: #434c51;
+    border-radius: 100%;
+    padding: 3px;
+    width:22.27422332763672;
+    height: 22.27422332763672;
+    
+}
+
+.lotof{
+    display: flex;
+    flex-direction: column;
+    gap:35px
+}
+
+.Company{
+    color:#898989;
+    display: flex;
+    flex-direction: column;
+    gap:15px
+}
+
+.Company h3{
+    color: #F5F7FA;
+}
+
+.Support{
+    color:#898989;
+    display: flex;
+    flex-direction: column;
+    gap:15px
+}
+
+.Support h3{
+    color: #F5F7FA;
+}
