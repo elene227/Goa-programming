@@ -7,4 +7,4 @@ user_name = input('please enter your name: ')
 user = input("please enter your surname: ")
 
 
-print(name == user_name, surname == user)
+print(name == user_name or surname == user)

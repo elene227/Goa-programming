@@ -1,8 +1,12 @@
-name = input("enter yo name: ")
+
+name = input("please enter your name: ")
+result = ''
+
+for i in name:
+    result = i + result
+print (result)
 
 
-for i in name[::-1]:
-    print(i, end="")
 
 
     #16) მომხმარებელს შემოატანინე თავისი სახელი, შემდეგ კი შეაბრუნე for loop-ის გამოყენებით.
